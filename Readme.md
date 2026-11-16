@@ -132,10 +132,9 @@ Use the following demonstration credentials to access the admin dashboard.
 
 Experience StayEase – Hotel Reservation System:
 
-- **Vercel Deployment:** [Visit Live Website](https://YOUR-PROJECT.vercel.app/)
-- **GitHub Pages:** [Visit Live Website](https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/)
+- **Vercel Deployment:** [Visit Live Website](https://chandan77480.github.io/StayEase/)
+- **GitHub Pages:** [Visit Live Website](https://stayease-ten-beta.vercel.app/)
 
-*Replace the placeholder links with your actual deployment URLs.*
 
 ---
 
